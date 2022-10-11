@@ -1,0 +1,13 @@
+A short-hand of if else, which is known as the ternary operator because it consists of three operands.
+It can be used to replace multiple lines of code with a single line. 
+It is often used to replace simple if else statements:
+
+Syntax :
+
+variable = (condition) ? expressionTrue : expressionFalse;
+
+EXP:
+
+if(a>b?cout<<" A is greater "; cout<<" B is greater ");
+
+It is used to shorten the program of IF-ElSE
